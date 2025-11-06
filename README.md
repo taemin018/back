@@ -59,9 +59,10 @@
 
 ---
 
+
 ## 👩‍💻 담당 업무
 
-
+<img width="1055" height="134" alt="KakaoTalk_Photo_2025-11-07-00-04-59" src="https://github.com/user-attachments/assets/994654d2-0af5-49f1-af36-9ac4b859365d" />
 
 ▶ 로그인 
 
